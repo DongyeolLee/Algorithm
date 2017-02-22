@@ -1,2 +1,3 @@
-# Algorithm
-it is my Algorithm study!
+# Algorithm   
+- ## basic
+	- [3n+1](https://github.com/DongyeolLee/Algorithm/tree/master/basic/3n%2B1)
