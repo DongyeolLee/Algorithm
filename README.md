@@ -8,3 +8,7 @@
  - <h2> sorting </h2>    
  
    - [Vitos Family](https://github.com/DongyeolLee/Algorithm/tree/master/sorting/Vitos%20Family)
+   
+ - <h2> dynamic programming </h2>
+ 
+   - [Make 1](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/make%201)
