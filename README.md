@@ -13,6 +13,9 @@
  
    - [Make 1](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/make%201)
    
+ - DFS
+    - [Adding 1s, 2s, and 3s]()
+   
  - <h2> KOI (easy) </h2>
    
    - [방 배정](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2016/13300.cpp)
