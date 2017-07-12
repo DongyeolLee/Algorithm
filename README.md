@@ -13,8 +13,9 @@
  
    - [Make 1](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/make%201)
    
- - DFS
-    - [Adding 1s, 2s, and 3s]()
+ - <h2> DFS </h2>   
+ 
+    - [Adding 1s, 2s, and 3s](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/Adding%201s%2C%202s%2C%20and%203s)
    
  - <h2> KOI (easy) </h2>
    
