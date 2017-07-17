@@ -22,6 +22,7 @@
    
    - [방 배정](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2016/13300.cpp)
    - [타일 장식물](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2016/13301.cpp)   
-   - [사과](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2015/10833.cpp)
+   - [사과](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2015/10833.cpp)     
+   - [벨트](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2015/10834.cpp)
    
    
