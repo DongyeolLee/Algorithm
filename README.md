@@ -17,7 +17,12 @@
  
     - [Adding 1s, 2s, and 3s](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/Adding%201s%2C%202s%2C%20and%203s)   
     - [TSP 2](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/TSP%202)
-   
+  
+ - <h2> BFS </h2>     
+ 
+   - [미로 탐색](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)
+ 
+ 
  - <h2> KOI (easy) </h2>
    
    - [방 배정](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2016/13300.cpp)
