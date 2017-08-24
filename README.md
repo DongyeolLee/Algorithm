@@ -18,6 +18,7 @@
     - [Adding 1s, 2s, and 3s](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/Adding%201s%2C%202s%2C%20and%203s)   
     - [TSP 2](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/TSP%202)
     - [적록색약](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD)
+    - [퇴사](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%ED%87%B4%EC%82%AC)
   
  - <h2> BFS </h2>     
  
