@@ -36,3 +36,4 @@
    - [방 배정하기](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2017/14697.cpp)
    - [서울에서 경산까지](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2017/14863.cpp)
    - [줄서기](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2017/14864.cpp)
+   - [리조트](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2016/13302.cpp)
