@@ -37,3 +37,4 @@
    - [서울에서 경산까지](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2017/14863.cpp)
    - [줄서기](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2017/14864.cpp)
    - [리조트](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2016/13302.cpp)
+   - [여왕벌](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2015/11836.cpp)
