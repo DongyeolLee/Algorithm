@@ -12,6 +12,7 @@
  - <h2> dynamic programming </h2>
  
    - [Make 1](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/make%201)
+   - [2*n 타일링](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/2*n%20%ED%83%80%EC%9D%BC%EB%A7%81)
    
  - <h2> DFS </h2>   
  
