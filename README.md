@@ -9,6 +9,13 @@
  
    - [Vitos Family](https://github.com/DongyeolLee/Algorithm/tree/master/sorting/Vitos%20Family)
    
+ - <h2> math </h2>
+   
+   - [최대공약수와 최소공배수](https://github.com/DongyeolLee/Algorithm/tree/master/math/gcd%20and%20lcm)
+   - [base conversion](https://github.com/DongyeolLee/Algorithm/tree/master/math/base%20conversion)
+   - [진법 변환](https://github.com/DongyeolLee/Algorithm/tree/master/math/%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%98)
+   - [소인수분해](https://github.com/DongyeolLee/Algorithm/tree/master/math/%EC%86%8C%EC%9D%B8%EC%88%98%20%EB%B6%84%ED%95%B4)
+   
  - <h2> dynamic programming </h2>
  
    - [Make 1](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/make%201)
