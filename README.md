@@ -8,6 +8,8 @@
  - <h2> sorting </h2>    
  
    - [Vitos Family](https://github.com/DongyeolLee/Algorithm/tree/master/sorting/Vitos%20Family)
+   - [수 정렬하기 3](https://github.com/DongyeolLee/Algorithm/tree/master/sorting/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203)
+   - [좌표 정렬하기](https://github.com/DongyeolLee/Algorithm/tree/master/sorting/%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
    
  - <h2> math </h2>
    
