@@ -32,7 +32,8 @@
     - [TSP 2](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/TSP%202)
     - [적록색약](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD)
     - [퇴사](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%ED%87%B4%EC%82%AC)
-  
+    - [연결 요소의 개수](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
+    
  - <h2> BFS </h2>     
  
    - [미로 탐색](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)
