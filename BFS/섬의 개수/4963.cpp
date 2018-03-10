@@ -59,7 +59,7 @@ int main() {
             for(int j = 0; j < w; j ++) {
                 if(map[i][j] && !visited[i][j]) {
                     cnt ++;
-                    dfs(i, j);
+                    bfs(i, j);
                 }
             }
         }
