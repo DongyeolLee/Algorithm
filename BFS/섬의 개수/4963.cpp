@@ -13,7 +13,7 @@ int dy[4] = {0, -1, 0, 1};
 int dx2[4] = {1, 1, -1, -1};
 int dy2[4] = {1, -1, -1, 1};
 
-int dfs(int i, int j) {
+int bfs(int i, int j) {
 
     visited[i][j] = 1;
 
