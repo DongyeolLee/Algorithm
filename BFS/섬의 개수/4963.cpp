@@ -13,7 +13,7 @@ int dy[4] = {0, -1, 0, 1};
 int dx2[4] = {1, 1, -1, -1};
 int dy2[4] = {1, -1, -1, 1};
 
-int bfs(int i, int j) {
+int dfs(int i, int j) {
 
     visited[i][j] = 1;
 
@@ -59,7 +59,7 @@ int main() {
             for(int j = 0; j < w; j ++) {
                 if(map[i][j] && !visited[i][j]) {
                     cnt ++;
-                    bfs(i, j);
+                    dfs(i, j);
                 }
             }
         }
