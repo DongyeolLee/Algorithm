@@ -35,12 +35,12 @@
     - [연결 요소의 개수](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
     - [이분 그래프](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%9D%B4%EB%B6%84%20%EA%B7%B8%EB%9E%98%ED%94%84)
     - [반복 수열](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EB%B0%98%EB%B3%B5%20%EC%88%98%EC%97%B4)
-    
+    - [섬의 개수](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98)
+     
  - <h2> BFS </h2>     
  
    - [미로 탐색](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)
    - [숨박꼭질 4](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EC%88%A8%EB%B0%95%EA%BC%AD%EC%A7%88%204)
-   - [섬의 개수](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98)
  
  - <h2> KOI (easy) </h2>
    
