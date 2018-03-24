@@ -53,6 +53,7 @@
  - <h2> greedy </h2>
  
    - [회의실 배정](https://github.com/DongyeolLee/Algorithm/tree/master/greedy/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)
+   - [수 묶기](https://github.com/DongyeolLee/Algorithm/tree/master/greedy/%EC%88%98%20%EB%AC%B6%EA%B8%B0)
    
  - <h2> KOI (easy) </h2>
    
