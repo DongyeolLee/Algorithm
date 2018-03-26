@@ -54,6 +54,7 @@
  
    - [회의실 배정](https://github.com/DongyeolLee/Algorithm/tree/master/greedy/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)
    - [수 묶기](https://github.com/DongyeolLee/Algorithm/tree/master/greedy/%EC%88%98%20%EB%AC%B6%EA%B8%B0)
+   - [병든 나이트](https://github.com/DongyeolLee/Algorithm/tree/master/greedy/%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8)
    
  - <h2> KOI (easy) </h2>
    
