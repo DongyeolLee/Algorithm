@@ -60,7 +60,7 @@
  - <h2> Div and Con </h2>
  
    - [숫자 카드2](https://github.com/DongyeolLee/Algorithm/tree/master/Div%20and%20Con/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2)
-   - [트리의 순회](https://github.com/DongyeolLee/Algorithm/tree/master/Div%20and%20Con/%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%AE%E1%86%AB%E1%84%92%E1%85%AC)
+   - [트리의 순회](https://github.com/DongyeolLee/Algorithm/tree/master/Div%20and%20Con/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C)
    
  - <h2> KOI (easy) </h2>
    
