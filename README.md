@@ -78,3 +78,4 @@
  - <h2> samsung </h2>
  
    - [뱀](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EB%B1%80)
+   - [째로탈출 2](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%A8%B0%EB%A1%9C%ED%83%88%EC%B6%9C%202)
