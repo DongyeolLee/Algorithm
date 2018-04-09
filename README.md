@@ -61,6 +61,7 @@
  
    - [숫자 카드2](https://github.com/DongyeolLee/Algorithm/tree/master/Div%20and%20Con/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2)
    - [트리의 순회](https://github.com/DongyeolLee/Algorithm/tree/master/Div%20and%20Con/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C)
+   - [종이의 개수](https://github.com/DongyeolLee/Algorithm/tree/master/Div%20and%20Con/%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)
    
  - <h2> KOI (easy) </h2>
    
