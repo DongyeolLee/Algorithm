@@ -30,6 +30,11 @@
     
     - [트리 순회](https://github.com/DongyeolLee/Algorithm/tree/master/tree/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C)
    
+ - <h2> BST </h2>
+    
+    - [나무 자르기](https://github.com/DongyeolLee/Algorithm/tree/master/BST/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
+    - [랜선 자르기](https://github.com/DongyeolLee/Algorithm/tree/master/BST/%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
+   
  - <h2> DFS </h2>   
  
     - [Adding 1s, 2s, and 3s](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/Adding%201s%2C%202s%2C%20and%203s)   
