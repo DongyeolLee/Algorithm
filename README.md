@@ -80,3 +80,5 @@
  
    - [뱀](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EB%B1%80)
    - [구슬 탈출 2](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EA%B5%AC%EC%8A%AC%20%ED%83%88%EC%B6%9C%202)
+   - [시험 감독](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%8B%9C%ED%97%98%20%EA%B0%90%EB%8F%85)
+   - [주사위 굴리기](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0)
