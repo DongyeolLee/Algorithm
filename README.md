@@ -89,3 +89,5 @@
    - [주사위 굴리기](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0)
    - [퇴사](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%ED%87%B4%EC%82%AC)
    - [테트로미노](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)
+   - [로봇 청소기](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0)
+   - [연구소](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%97%B0%EA%B5%AC%EC%86%8C)
