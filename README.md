@@ -91,3 +91,5 @@
    - [테트로미노](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)
    - [로봇 청소기](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0)
    - [연구소](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%97%B0%EA%B5%AC%EC%86%8C)
+   - [연산자 끼워넣기](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)
+   - [톱니바퀴](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4)
