@@ -93,3 +93,7 @@
    - [연구소](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%97%B0%EA%B5%AC%EC%86%8C)
    - [연산자 끼워넣기](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)
    - [톱니바퀴](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4)
+   - [스타트와 링크](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC)
+   - [경사로](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EA%B2%BD%EC%82%AC%EB%A1%9C)
+   
+
