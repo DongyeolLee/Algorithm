@@ -80,7 +80,11 @@
    - [줄서기](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2017/14864.cpp)
    - [리조트](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2016/13302.cpp)
    - [여왕벌](https://github.com/DongyeolLee/Algorithm/blob/master/KOI%20(easy)/2015/11836.cpp)
-   
+  
+ - <h2> permutation </h2>
+ 
+   - [다음 순열](https://github.com/DongyeolLee/Algorithm/tree/master/permutation/%EB%8B%A4%EC%9D%8C%20%EC%88%9C%EC%97%B4)
+ 
  - <h2> samsung </h2>
  
    - [뱀](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EB%B1%80)
