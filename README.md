@@ -40,7 +40,7 @@
     - [Adding 1s, 2s, and 3s](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/Adding%201s%2C%202s%2C%20and%203s)   
     - [TSP 2](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/TSP%202)
     - [적록색약](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD)
-    - [퇴사](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%ED%87%B4%EC%82%AC)
+    - [리모컨](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EB%A6%AC%EB%AA%A8%EC%BB%A8)
     - [연결 요소의 개수](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98)
     - [이분 그래프](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%9D%B4%EB%B6%84%20%EA%B7%B8%EB%9E%98%ED%94%84)
     - [반복 수열](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EB%B0%98%EB%B3%B5%20%EC%88%98%EC%97%B4)
