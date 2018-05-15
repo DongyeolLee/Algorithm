@@ -46,6 +46,7 @@
     - [반복 수열](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EB%B0%98%EB%B3%B5%20%EC%88%98%EC%97%B4)
     - [섬의 개수](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98)
     - [텀 프로젝트](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%ED%85%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+    - [외판원 순회 2](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C2)
      
  - <h2> BFS </h2>     
  
@@ -54,6 +55,7 @@
    - [다리 만들기](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%8B%A4%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
    - [토마토](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%ED%86%A0%EB%A7%88%ED%86%A0)
    - [트리의 부모 찾기](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0)
+   - [숨박꼭질](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EC%88%A8%EB%B0%95%EA%BC%AD%EC%A7%88)
    
  - <h2> greedy </h2>
  
