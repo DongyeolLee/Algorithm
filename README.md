@@ -56,6 +56,7 @@
    - [토마토](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%ED%86%A0%EB%A7%88%ED%86%A0)
    - [트리의 부모 찾기](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0)
    - [숨바꼭질](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EC%88%A8%EB%B0%95%EA%BC%AD%EC%A7%88)
+   - [소수 경로](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EC%86%8C%EC%88%98%20%EA%B2%BD%EB%A1%9C)
    
  - <h2> greedy </h2>
  
