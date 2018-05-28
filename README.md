@@ -107,4 +107,9 @@
    - [경사로](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EA%B2%BD%EC%82%AC%EB%A1%9C)
    - [치킨 배달](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC)
    
+ - <h2> Data Structure </h2>
+       
+   - [문자열 폭발](https://github.com/DongyeolLee/Algorithm/tree/master/Data%20Structure/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C)
+   - [바이러스](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)
+   
 
