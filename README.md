@@ -26,6 +26,7 @@
    - [포도주 시식](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D)
    - [가장 긴 바이토닉 부분 수열](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)
    - [이동하기](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
+   - [점프](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/%EC%A0%90%ED%94%84)
    
  - <h2> tree </h2>
     
