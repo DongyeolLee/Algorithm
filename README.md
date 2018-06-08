@@ -28,6 +28,7 @@
    - [이동하기](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
    - [점프](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/%EC%A0%90%ED%94%84)
    - [팰린드롬?](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%3F)
+   - [팰린드롬 분할](https://github.com/DongyeolLee/Algorithm/tree/master/dynamic%20programming/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EB%B6%84%ED%95%A0)
    
  - <h2> tree </h2>
     
