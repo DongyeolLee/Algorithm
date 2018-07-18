@@ -19,6 +19,7 @@
    - [소인수분해](https://github.com/DongyeolLee/Algorithm/tree/master/math/%EC%86%8C%EC%9D%B8%EC%88%98%20%EB%B6%84%ED%95%B4)
    - [곱셈](https://github.com/DongyeolLee/Algorithm/tree/master/math/%EA%B3%B1%EC%85%88)
    - [행렬 덧셈](https://github.com/DongyeolLee/Algorithm/tree/master/math/%ED%96%89%EB%A0%AC%20%EB%8D%A7%EC%85%88)
+   - [두 용액](https://github.com/DongyeolLee/Algorithm/tree/master/math/%EB%91%90%20%EC%9A%A9%EC%95%A1)
    
  - <h2> dynamic programming </h2>
  
