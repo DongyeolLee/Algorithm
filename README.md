@@ -21,6 +21,7 @@
    - [행렬 덧셈](https://github.com/DongyeolLee/Algorithm/tree/master/math/%ED%96%89%EB%A0%AC%20%EB%8D%A7%EC%85%88)
    - [행렬 제곱](https://github.com/DongyeolLee/Algorithm/tree/master/math/%ED%96%89%EB%A0%AC%20%EC%A0%9C%EA%B3%B1)
    - [두 용액](https://github.com/DongyeolLee/Algorithm/tree/master/math/%EB%91%90%20%EC%9A%A9%EC%95%A1)
+   - [피보나치 수](https://github.com/DongyeolLee/Algorithm/tree/master/math/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98)
    
  - <h2> dynamic programming </h2>
  
