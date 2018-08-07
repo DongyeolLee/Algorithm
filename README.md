@@ -24,6 +24,7 @@
    - [피보나치 수](https://github.com/DongyeolLee/Algorithm/tree/master/math/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98)
    - [피보나치 수3](https://github.com/DongyeolLee/Algorithm/tree/master/math/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%983)
    - [피보나치 수4](https://github.com/DongyeolLee/Algorithm/tree/master/math/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%984)
+   - [피사노 주기](https://github.com/DongyeolLee/Algorithm/tree/master/math/%ED%94%BC%EC%82%AC%EB%85%B8%20%EC%A3%BC%EA%B8%B0)
    
  - <h2> dynamic programming </h2>
  
