@@ -114,6 +114,7 @@
    - [다음 순열](https://github.com/DongyeolLee/Algorithm/tree/master/permutation/%EB%8B%A4%EC%9D%8C%20%EC%88%9C%EC%97%B4)
    - [모든 순열](https://github.com/DongyeolLee/Algorithm/tree/master/permutation/%EB%AA%A8%EB%93%A0%20%EC%88%9C%EC%97%B4)
    - [순열의 순서](https://github.com/DongyeolLee/Algorithm/tree/master/permutation/%EC%88%9C%EC%97%B4%EC%9D%98%20%EC%88%9C%EC%84%9C)
+   - [단어 수학](https://github.com/DongyeolLee/Algorithm/tree/master/permutation/%EB%8B%A8%EC%96%B4%20%EC%88%98%ED%95%99)
  
  - <h2> samsung </h2>
  
