@@ -83,6 +83,7 @@
    - [소수 경로](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EC%86%8C%EC%88%98%20%EA%B2%BD%EB%A1%9C)
    - [나이트의 이동](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99)
    - [보물섬](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%B3%B4%EB%AC%BC%EC%84%AC)
+   - [말이 되고픈 원숭이](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4)
    
  - <h2> greedy </h2>
  
