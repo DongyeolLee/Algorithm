@@ -75,6 +75,7 @@
     - [체스판 다시 칠하기](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0)
     - [스도쿠](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%8A%A4%EB%8F%84%EC%BF%A0)
     - [로또](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EB%A1%9C%EB%98%90)
+    - [케빈 베이컨의 6단계 법칙](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99)
      
  - <h2> BFS </h2>     
  
