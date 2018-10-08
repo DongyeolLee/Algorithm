@@ -90,6 +90,7 @@
    - [나이트의 이동](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99)
    - [보물섬](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%B3%B4%EB%AC%BC%EC%84%AC)
    - [말이 되고픈 원숭이](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4)
+   - [숫자고르기](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0)
    
  - <h2> greedy </h2>
  
