@@ -77,7 +77,6 @@
     - [로또](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EB%A1%9C%EB%98%90)
     - [케빈 베이컨의 6단계 법칙](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99)
     - [맥주 마시면서 걷기](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B7%EA%B8%B0)
-    - [감시](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EA%B0%90%EC%8B%9C)
      
  - <h2> BFS </h2>     
  
@@ -143,7 +142,8 @@
    - [경사로](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EA%B2%BD%EC%82%AC%EB%A1%9C)
    - [치킨 배달](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC)
    - [드래곤 커브](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C)
-   
+   - [감시](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EA%B0%90%EC%8B%9C)
+       
  - <h2> Data Structure </h2>
        
    - [문자열 폭발](https://github.com/DongyeolLee/Algorithm/tree/master/Data%20Structure/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C)
