@@ -143,6 +143,7 @@
    - [치킨 배달](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC)
    - [드래곤 커브](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C)
    - [감시](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EA%B0%90%EC%8B%9C)
+   - [아기 상어](https://github.com/DongyeolLee/Algorithm/tree/master/samsung/%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4)
        
  - <h2> Data Structure </h2>
        
