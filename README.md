@@ -92,6 +92,7 @@
    - [보물섬](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%B3%B4%EB%AC%BC%EC%84%AC)
    - [말이 되고픈 원숭이](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4)
    - [숫자고르기](https://github.com/DongyeolLee/Algorithm/tree/master/DFS/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0)
+   - [촌수계산](https://github.com/DongyeolLee/Algorithm/tree/master/BFS/%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0)
    
  - <h2> greedy </h2>
  
