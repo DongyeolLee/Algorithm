@@ -101,6 +101,10 @@
    - [병든 나이트](https://github.com/DongyeolLee/Algorithm/tree/master/greedy/%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8)
    - [롤러코스터](https://github.com/DongyeolLee/Algorithm/tree/master/greedy/%EB%A1%A4%EB%9F%AC%EC%BD%94%EC%8A%A4%ED%84%B0)
    
+ - <h2> dijkstra </h2>
+ 
+   - [최소비용 구하기](https://github.com/DongyeolLee/Algorithm/tree/master/dijkstra/%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+   
  - <h2> Div and Con </h2>
  
    - [숫자 카드2](https://github.com/DongyeolLee/Algorithm/tree/master/Div%20and%20Con/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2)
