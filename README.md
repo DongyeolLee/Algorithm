@@ -104,6 +104,7 @@
  - <h2> dijkstra </h2>
  
    - [최소비용 구하기](https://github.com/DongyeolLee/Algorithm/tree/master/dijkstra/%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+   - [파티](https://github.com/DongyeolLee/Algorithm/tree/master/dijkstra/%ED%8C%8C%ED%8B%B0)
    
  - <h2> Div and Con </h2>
  
