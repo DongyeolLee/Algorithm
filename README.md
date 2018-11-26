@@ -105,6 +105,7 @@
  
    - [최소비용 구하기](https://github.com/DongyeolLee/Algorithm/tree/master/dijkstra/%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0)
    - [파티](https://github.com/DongyeolLee/Algorithm/tree/master/dijkstra/%ED%8C%8C%ED%8B%B0)
+   - [알고스팟](https://github.com/DongyeolLee/Algorithm/tree/master/dijkstra/%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F)
    
  - <h2> Div and Con </h2>
  
