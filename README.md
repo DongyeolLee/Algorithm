@@ -45,6 +45,10 @@
     
     - [트리 순회](https://github.com/DongyeolLee/Algorithm/tree/master/tree/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C)
     
+ - <h2> Back Tracking </h2>
+    
+    - [암호 만들기](https://github.com/DongyeolLee/Algorithm/tree/master/Back%20Tracking/%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+    
  - <h2> brute force</h2>
  
     - [숫자 정사각형](https://github.com/DongyeolLee/Algorithm/tree/master/brute%20force/%EC%88%AB%EC%9E%90%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95)
